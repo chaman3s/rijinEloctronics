@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/rijinEloctronics/static/css/main.920e0e7e.css",
-    "main.js": "/rijinEloctronics/static/js/main.6b3a020f.js",
+    "main.css": "/rijinEloctronics/static/css/main.98e0920e.css",
+    "main.js": "/rijinEloctronics/static/js/main.c1037856.js",
     "static/js/787.27ebb599.chunk.js": "/rijinEloctronics/static/js/787.27ebb599.chunk.js",
     "static/media/logo mk 3.jpg": "/rijinEloctronics/static/media/logo mk 3.69d2b3ad2234fce755b6.jpg",
     "static/media/slider1.jpg": "/rijinEloctronics/static/media/slider1.771f1ea16ab860b84dc9.jpg",
     "static/media/sliider2.png": "/rijinEloctronics/static/media/sliider2.ea13c9436f7d20a8ca6f.png",
     "static/media/sliider3.png": "/rijinEloctronics/static/media/sliider3.d7dfb56ccce8a48681cb.png",
     "static/media/earth.png": "/rijinEloctronics/static/media/earth.0a727a34e71b3678e794.png",
+    "static/media/excel_value_delivery.webp": "/rijinEloctronics/static/media/excel_value_delivery.17af1fc66dd4e9f2c4a3.webp",
+    "static/media/excel_manufacturing.webp": "/rijinEloctronics/static/media/excel_manufacturing.d795eb86b13a28f41d5e.webp",
+    "static/media/excel_product_engineering.webp": "/rijinEloctronics/static/media/excel_product_engineering.94aa513045b6097f0204.webp",
     "index.html": "/rijinEloctronics/index.html",
-    "main.920e0e7e.css.map": "/rijinEloctronics/static/css/main.920e0e7e.css.map",
-    "main.6b3a020f.js.map": "/rijinEloctronics/static/js/main.6b3a020f.js.map",
+    "main.98e0920e.css.map": "/rijinEloctronics/static/css/main.98e0920e.css.map",
+    "main.c1037856.js.map": "/rijinEloctronics/static/js/main.c1037856.js.map",
     "787.27ebb599.chunk.js.map": "/rijinEloctronics/static/js/787.27ebb599.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.920e0e7e.css",
-    "static/js/main.6b3a020f.js"
+    "static/css/main.98e0920e.css",
+    "static/js/main.c1037856.js"
   ]
 }
