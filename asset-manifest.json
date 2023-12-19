@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rijinEloctronics/static/css/main.353ec63a.css",
-    "main.js": "/rijinEloctronics/static/js/main.073f3744.js",
+    "main.js": "/rijinEloctronics/static/js/main.25dcc4b1.js",
     "static/js/787.27ebb599.chunk.js": "/rijinEloctronics/static/js/787.27ebb599.chunk.js",
     "static/media/logo mk 3.jpg": "/rijinEloctronics/static/media/logo mk 3.69d2b3ad2234fce755b6.jpg",
     "static/media/slider1.jpg": "/rijinEloctronics/static/media/slider1.771f1ea16ab860b84dc9.jpg",
@@ -16,11 +16,11 @@
     "static/media/brain.webp": "/rijinEloctronics/static/media/brain.4c074d7318da8f26bcea.webp",
     "index.html": "/rijinEloctronics/index.html",
     "main.353ec63a.css.map": "/rijinEloctronics/static/css/main.353ec63a.css.map",
-    "main.073f3744.js.map": "/rijinEloctronics/static/js/main.073f3744.js.map",
+    "main.25dcc4b1.js.map": "/rijinEloctronics/static/js/main.25dcc4b1.js.map",
     "787.27ebb599.chunk.js.map": "/rijinEloctronics/static/js/787.27ebb599.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.353ec63a.css",
-    "static/js/main.073f3744.js"
+    "static/js/main.25dcc4b1.js"
   ]
 }
