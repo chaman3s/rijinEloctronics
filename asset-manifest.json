@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/rijinEloctronics/static/css/main.de45e31d.css",
-    "main.js": "/rijinEloctronics/static/js/main.944beb57.js",
+    "main.css": "/rijinEloctronics/static/css/main.353ec63a.css",
+    "main.js": "/rijinEloctronics/static/js/main.073f3744.js",
     "static/js/787.27ebb599.chunk.js": "/rijinEloctronics/static/js/787.27ebb599.chunk.js",
     "static/media/logo mk 3.jpg": "/rijinEloctronics/static/media/logo mk 3.69d2b3ad2234fce755b6.jpg",
     "static/media/slider1.jpg": "/rijinEloctronics/static/media/slider1.771f1ea16ab860b84dc9.jpg",
     "static/media/sliider2.png": "/rijinEloctronics/static/media/sliider2.ea13c9436f7d20a8ca6f.png",
     "static/media/sliider3.png": "/rijinEloctronics/static/media/sliider3.d7dfb56ccce8a48681cb.png",
+    "static/media/test.jpg": "/rijinEloctronics/static/media/test.236e526b1fe232d6926b.jpg",
+    "static/media/5g.webp": "/rijinEloctronics/static/media/5g.2dce4bc1251b54281444.webp",
     "static/media/earth.png": "/rijinEloctronics/static/media/earth.0a727a34e71b3678e794.png",
     "static/media/excel_value_delivery.webp": "/rijinEloctronics/static/media/excel_value_delivery.17af1fc66dd4e9f2c4a3.webp",
     "static/media/excel_manufacturing.webp": "/rijinEloctronics/static/media/excel_manufacturing.d795eb86b13a28f41d5e.webp",
     "static/media/excel_product_engineering.webp": "/rijinEloctronics/static/media/excel_product_engineering.94aa513045b6097f0204.webp",
+    "static/media/brain.webp": "/rijinEloctronics/static/media/brain.4c074d7318da8f26bcea.webp",
     "index.html": "/rijinEloctronics/index.html",
-    "main.de45e31d.css.map": "/rijinEloctronics/static/css/main.de45e31d.css.map",
-    "main.944beb57.js.map": "/rijinEloctronics/static/js/main.944beb57.js.map",
+    "main.353ec63a.css.map": "/rijinEloctronics/static/css/main.353ec63a.css.map",
+    "main.073f3744.js.map": "/rijinEloctronics/static/js/main.073f3744.js.map",
     "787.27ebb599.chunk.js.map": "/rijinEloctronics/static/js/787.27ebb599.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de45e31d.css",
-    "static/js/main.944beb57.js"
+    "static/css/main.353ec63a.css",
+    "static/js/main.073f3744.js"
   ]
 }
